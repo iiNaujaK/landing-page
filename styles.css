@@ -1,0 +1,46 @@
+* {
+    border: 1px black solid;
+}
+#header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5%;
+}
+#head-cont {
+    display: flex;
+    align-items: center;
+    margin-left: 15%;
+}
+#head-link-cont {
+    display: flex;
+    flex-direction: row;
+    margin-right: 15%;
+}
+.link {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#grey-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    height: 300px;
+    margin-right: 15%;
+}
+#section-1-cont {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#sign-up-cont {
+    margin-left: 15%;
+}
+#head-subtext {
+    display: block;
+    width: 200px;
+    margin-top: 0;
+}
+#head-text {
+    margin-bottom: 0;
+}
